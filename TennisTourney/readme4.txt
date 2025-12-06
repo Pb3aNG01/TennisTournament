@@ -1,0 +1,4 @@
+assignment4.java
+created by Phillip Nguyen on 4/28/2023
+
+The following program will ask the user to input names of the players that will be in a simulated tennis tournament, once the names are entered the games will begin starting with who will be the first server. During the games whoever scores a point will be declared as the server and the scores between the two players will be shown after each turn and then the user will be prompted to press Enter to continue the game, this will go on until there is a winner. After every player in the arraylists has played a game and there is a winner and a loser, the winners will advance into the next arraylist. Then once the final game has been played the winning and runner up's name will be displayed.
